@@ -38,6 +38,7 @@ public class UpstockMarginControler {
 		data.setT_TOT_ADHOC_MRG("0.0");
 		
 		
+		
 		MarginResponce marginResponce = new MarginResponce();
 		marginResponce.setData(data);
 		marginResponce.setStatus("Success");
